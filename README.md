@@ -1,5 +1,5 @@
 <h3 align="center">
-  team-app
+  Team
 </h3>
 
 <p align="center">
